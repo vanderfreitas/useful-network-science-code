@@ -1,0 +1,2351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns
+         http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+<!-- Created by igraph -->
+  <key id="v_geocode" for="node" attr.name="geocode" attr.type="double"/>
+  <key id="v_label" for="node" attr.name="label" attr.type="string"/>
+  <key id="v_X" for="node" attr.name="X" attr.type="double"/>
+  <key id="v_Y" for="node" attr.name="Y" attr.type="double"/>
+  <key id="v_size" for="node" attr.name="size" attr.type="double"/>
+  <key id="v_label_size" for="node" attr.name="label_size" attr.type="double"/>
+  <key id="e_weight" for="edge" attr.name="weight" attr.type="double"/>
+  <graph id="G" edgedefault="undirected">
+    <node id="n0">
+      <data key="v_geocode">1100205</data>
+      <data key="v_label">Porto Velho</data>
+      <data key="v_X">-64.30681</data>
+      <data key="v_Y">-9.15359</data>
+      <data key="v_size">3.10169491525424</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n1">
+      <data key="v_geocode">1200203</data>
+      <data key="v_label">Cruzeiro do Sul</data>
+      <data key="v_X">-72.75488</data>
+      <data key="v_Y">-7.97194</data>
+      <data key="v_size">2.4406779661017</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n2">
+      <data key="v_geocode">1200351</data>
+      <data key="v_label">Marechal Thaumaturgo</data>
+      <data key="v_X">-72.55933</data>
+      <data key="v_Y">-9.09597</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n3">
+      <data key="v_geocode">1200393</data>
+      <data key="v_label">Porto Walter</data>
+      <data key="v_X">-72.7335</data>
+      <data key="v_Y">-8.4917</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n4">
+      <data key="v_geocode">1300029</data>
+      <data key="v_label">Alvarães</data>
+      <data key="v_X">-65.32445</data>
+      <data key="v_Y">-3.69468</data>
+      <data key="v_size">2.88135593220339</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n5">
+      <data key="v_geocode">1300060</data>
+      <data key="v_label">Amaturá</data>
+      <data key="v_X">-68.2865</data>
+      <data key="v_Y">-3.41843</data>
+      <data key="v_size">4.20338983050847</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n6">
+      <data key="v_geocode">1300086</data>
+      <data key="v_label">Anamã</data>
+      <data key="v_X">-61.71693</data>
+      <data key="v_Y">-3.50225</data>
+      <data key="v_size">2.66101694915254</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n7">
+      <data key="v_geocode">1300102</data>
+      <data key="v_label">Anori</data>
+      <data key="v_X">-62.09541</data>
+      <data key="v_Y">-4.19868</data>
+      <data key="v_size">2.66101694915254</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n8">
+      <data key="v_geocode">1300300</data>
+      <data key="v_label">Autazes</data>
+      <data key="v_X">-59.5275</data>
+      <data key="v_Y">-3.78889</data>
+      <data key="v_size">2.4406779661017</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n9">
+      <data key="v_geocode">1300409</data>
+      <data key="v_label">Barcelos</data>
+      <data key="v_X">-63.43481</data>
+      <data key="v_Y">-0.46518</data>
+      <data key="v_size">2.4406779661017</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n10">
+      <data key="v_geocode">1300508</data>
+      <data key="v_label">Barreirinha</data>
+      <data key="v_X">-57.17244</data>
+      <data key="v_Y">-3.12904</data>
+      <data key="v_size">2.66101694915254</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n11">
+      <data key="v_geocode">1300607</data>
+      <data key="v_label">Benjamin Constant</data>
+      <data key="v_X">-70.27909</data>
+      <data key="v_Y">-5.43056</data>
+      <data key="v_size">4.20338983050847</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n12">
+      <data key="v_geocode">1300631</data>
+      <data key="v_label">Beruri</data>
+      <data key="v_X">-61.80443</data>
+      <data key="v_Y">-4.60641</data>
+      <data key="v_size">3.10169491525424</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n13">
+      <data key="v_geocode">1300680</data>
+      <data key="v_label">Boa Vista do Ramos</data>
+      <data key="v_X">-57.6701</data>
+      <data key="v_Y">-3.13804</data>
+      <data key="v_size">2.66101694915254</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n14">
+      <data key="v_geocode">1300805</data>
+      <data key="v_label">Borba</data>
+      <data key="v_X">-59.53469</data>
+      <data key="v_Y">-4.95762</data>
+      <data key="v_size">3.32203389830508</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n15">
+      <data key="v_geocode">1300839</data>
+      <data key="v_label">Caapiranga</data>
+      <data key="v_X">-61.87774</data>
+      <data key="v_Y">-3.08197</data>
+      <data key="v_size">2.4406779661017</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n16">
+      <data key="v_geocode">1300904</data>
+      <data key="v_label">Canutama</data>
+      <data key="v_X">-64.0619</data>
+      <data key="v_Y">-7.30076</data>
+      <data key="v_size">2.22033898305085</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n17">
+      <data key="v_geocode">1301001</data>
+      <data key="v_label">Carauari</data>
+      <data key="v_X">-67.33747</data>
+      <data key="v_Y">-5.11852</data>
+      <data key="v_size">2.88135593220339</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n18">
+      <data key="v_geocode">1301159</data>
+      <data key="v_label">Careiro da Várzea</data>
+      <data key="v_X">-59.59982</data>
+      <data key="v_Y">-3.28614</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n19">
+      <data key="v_geocode">1301209</data>
+      <data key="v_label">Coari</data>
+      <data key="v_X">-64.12531</data>
+      <data key="v_Y">-4.43635</data>
+      <data key="v_size">5.08474576271187</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n20">
+      <data key="v_geocode">1301308</data>
+      <data key="v_label">Codajás</data>
+      <data key="v_X">-62.97332</data>
+      <data key="v_Y">-3.28897</data>
+      <data key="v_size">5.08474576271187</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n21">
+      <data key="v_geocode">1301605</data>
+      <data key="v_label">Fonte Boa</data>
+      <data key="v_X">-66.35792</data>
+      <data key="v_Y">-2.49099</data>
+      <data key="v_size">4.20338983050847</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n22">
+      <data key="v_geocode">1301704</data>
+      <data key="v_label">Humaitá</data>
+      <data key="v_X">-62.48617</data>
+      <data key="v_Y">-7.36155</data>
+      <data key="v_size">3.10169491525424</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n23">
+      <data key="v_geocode">1301803</data>
+      <data key="v_label">Ipixuna</data>
+      <data key="v_X">-71.41287</data>
+      <data key="v_Y">-7.18051</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n24">
+      <data key="v_geocode">1301852</data>
+      <data key="v_label">Iranduba</data>
+      <data key="v_X">-60.4804</data>
+      <data key="v_Y">-3.09511</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n25">
+      <data key="v_geocode">1301902</data>
+      <data key="v_label">Itacoatiara</data>
+      <data key="v_X">-58.77729</data>
+      <data key="v_Y">-3.17464</data>
+      <data key="v_size">7.06779661016949</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n26">
+      <data key="v_geocode">1302009</data>
+      <data key="v_label">Itapiranga</data>
+      <data key="v_X">-58.61994</data>
+      <data key="v_Y">-2.49856</data>
+      <data key="v_size">2.66101694915254</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n27">
+      <data key="v_geocode">1302108</data>
+      <data key="v_label">Japurá</data>
+      <data key="v_X">-68.32112</data>
+      <data key="v_Y">-1.69708</data>
+      <data key="v_size">2.4406779661017</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n28">
+      <data key="v_geocode">1302207</data>
+      <data key="v_label">Juruá</data>
+      <data key="v_X">-66.3078</data>
+      <data key="v_Y">-3.52446</data>
+      <data key="v_size">2.88135593220339</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n29">
+      <data key="v_geocode">1302306</data>
+      <data key="v_label">Jutaí</data>
+      <data key="v_X">-68.4063</data>
+      <data key="v_Y">-4.71529</data>
+      <data key="v_size">4.20338983050847</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n30">
+      <data key="v_geocode">1302405</data>
+      <data key="v_label">Lábrea</data>
+      <data key="v_X">-65.81166</data>
+      <data key="v_Y">-8.3756</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n31">
+      <data key="v_geocode">1302504</data>
+      <data key="v_label">Manacapuru</data>
+      <data key="v_X">-60.95842</data>
+      <data key="v_Y">-3.29142</data>
+      <data key="v_size">3.10169491525424</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n32">
+      <data key="v_geocode">1302553</data>
+      <data key="v_label">Manaquiri</data>
+      <data key="v_X">-60.69714</data>
+      <data key="v_Y">-3.77889</data>
+      <data key="v_size">2.22033898305085</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n33">
+      <data key="v_geocode">1302603</data>
+      <data key="v_label">Manaus</data>
+      <data key="v_X">-60.25963</data>
+      <data key="v_Y">-2.62592</data>
+      <data key="v_size">15</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n34">
+      <data key="v_geocode">1302702</data>
+      <data key="v_label">Manicoré</data>
+      <data key="v_X">-61.44661</data>
+      <data key="v_Y">-6.45944</data>
+      <data key="v_size">3.10169491525424</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n35">
+      <data key="v_geocode">1302801</data>
+      <data key="v_label">Maraã</data>
+      <data key="v_X">-65.03955</data>
+      <data key="v_Y">-2.42683</data>
+      <data key="v_size">2.4406779661017</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n36">
+      <data key="v_geocode">1302900</data>
+      <data key="v_label">Maués</data>
+      <data key="v_X">-58.06092</data>
+      <data key="v_Y">-4.98478</data>
+      <data key="v_size">2.22033898305085</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n37">
+      <data key="v_geocode">1303007</data>
+      <data key="v_label">Nhamundá</data>
+      <data key="v_X">-57.65628</data>
+      <data key="v_Y">-1.68051</data>
+      <data key="v_size">2.88135593220339</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n38">
+      <data key="v_geocode">1303106</data>
+      <data key="v_label">Nova Olinda do Norte</data>
+      <data key="v_X">-58.60029</data>
+      <data key="v_Y">-3.98909</data>
+      <data key="v_size">3.32203389830508</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n39">
+      <data key="v_geocode">1303205</data>
+      <data key="v_label">Novo Airão</data>
+      <data key="v_X">-61.70316</data>
+      <data key="v_Y">-2.04744</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n40">
+      <data key="v_geocode">1303304</data>
+      <data key="v_label">Novo Aripuanã</data>
+      <data key="v_X">-60.47715</data>
+      <data key="v_Y">-6.82401</data>
+      <data key="v_size">3.10169491525424</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n41">
+      <data key="v_geocode">1303403</data>
+      <data key="v_label">Parintins</data>
+      <data key="v_X">-56.85409</data>
+      <data key="v_Y">-2.6884</data>
+      <data key="v_size">5.96610169491525</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n42">
+      <data key="v_geocode">1303601</data>
+      <data key="v_label">Santa Isabel do Rio Negro</data>
+      <data key="v_X">-65.52133</data>
+      <data key="v_Y">-0.31836</data>
+      <data key="v_size">2.4406779661017</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n43">
+      <data key="v_geocode">1303700</data>
+      <data key="v_label">Santo Antônio do Içá</data>
+      <data key="v_X">-69.08935</data>
+      <data key="v_Y">-3.0529</data>
+      <data key="v_size">4.20338983050847</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n44">
+      <data key="v_geocode">1303809</data>
+      <data key="v_label">São Gabriel da Cachoeira</data>
+      <data key="v_X">-67.99693</data>
+      <data key="v_Y">0.3749</data>
+      <data key="v_size">2.4406779661017</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n45">
+      <data key="v_geocode">1303908</data>
+      <data key="v_label">São Paulo de Olivença</data>
+      <data key="v_X">-69.45112</data>
+      <data key="v_Y">-4.50144</data>
+      <data key="v_size">4.20338983050847</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n46">
+      <data key="v_geocode">1303957</data>
+      <data key="v_label">São Sebastião do Uatumã</data>
+      <data key="v_X">-58.70254</data>
+      <data key="v_Y">-1.94604</data>
+      <data key="v_size">2.66101694915254</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n47">
+      <data key="v_geocode">1304062</data>
+      <data key="v_label">Tabatinga</data>
+      <data key="v_X">-69.67809</data>
+      <data key="v_Y">-4.02852</data>
+      <data key="v_size">4.20338983050847</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n48">
+      <data key="v_geocode">1304104</data>
+      <data key="v_label">Tapauá</data>
+      <data key="v_X">-64.9558</data>
+      <data key="v_Y">-6.0937</data>
+      <data key="v_size">2.66101694915254</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n49">
+      <data key="v_geocode">1304203</data>
+      <data key="v_label">Tefé</data>
+      <data key="v_X">-65.53154</data>
+      <data key="v_Y">-4.47011</data>
+      <data key="v_size">5.52542372881356</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n50">
+      <data key="v_geocode">1304237</data>
+      <data key="v_label">Tonantins</data>
+      <data key="v_X">-67.82605</data>
+      <data key="v_Y">-2.69181</data>
+      <data key="v_size">4.20338983050847</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n51">
+      <data key="v_geocode">1304260</data>
+      <data key="v_label">Uarini</data>
+      <data key="v_X">-65.41079</data>
+      <data key="v_Y">-3.16566</data>
+      <data key="v_size">2.88135593220339</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n52">
+      <data key="v_geocode">1304302</data>
+      <data key="v_label">Urucará</data>
+      <data key="v_X">-59.02974</data>
+      <data key="v_Y">-0.8942</data>
+      <data key="v_size">2.88135593220339</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n53">
+      <data key="v_geocode">1304401</data>
+      <data key="v_label">Urucurituba</data>
+      <data key="v_X">-57.77043</data>
+      <data key="v_Y">-2.81246</data>
+      <data key="v_size">2.4406779661017</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n54">
+      <data key="v_geocode">1500107</data>
+      <data key="v_label">Abaetetuba</data>
+      <data key="v_X">-48.88308</data>
+      <data key="v_Y">-1.73028</data>
+      <data key="v_size">2.22033898305085</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n55">
+      <data key="v_geocode">1500206</data>
+      <data key="v_label">Acará</data>
+      <data key="v_X">-48.41153</data>
+      <data key="v_Y">-2.03545</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n56">
+      <data key="v_geocode">1500305</data>
+      <data key="v_label">Afuá</data>
+      <data key="v_X">-50.72761</data>
+      <data key="v_Y">-0.26387</data>
+      <data key="v_size">3.32203389830508</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n57">
+      <data key="v_geocode">1500404</data>
+      <data key="v_label">Alenquer</data>
+      <data key="v_X">-55.03916</data>
+      <data key="v_Y">-0.60468</data>
+      <data key="v_size">3.32203389830508</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n58">
+      <data key="v_geocode">1500503</data>
+      <data key="v_label">Almeirim</data>
+      <data key="v_X">-53.89359</data>
+      <data key="v_Y">0.28448</data>
+      <data key="v_size">5.52542372881356</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n59">
+      <data key="v_geocode">1500602</data>
+      <data key="v_label">Altamira</data>
+      <data key="v_X">-53.88668</data>
+      <data key="v_Y">-6.48617</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n60">
+      <data key="v_geocode">1500701</data>
+      <data key="v_label">Anajás</data>
+      <data key="v_X">-49.96128</data>
+      <data key="v_Y">-0.82702</data>
+      <data key="v_size">2.66101694915254</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n61">
+      <data key="v_geocode">1501006</data>
+      <data key="v_label">Aveiro</data>
+      <data key="v_X">-56.0163</data>
+      <data key="v_Y">-3.66722</data>
+      <data key="v_size">2.22033898305085</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n62">
+      <data key="v_geocode">1501105</data>
+      <data key="v_label">Bagre</data>
+      <data key="v_X">-50.18177</data>
+      <data key="v_Y">-2.37314</data>
+      <data key="v_size">2.88135593220339</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n63">
+      <data key="v_geocode">1501204</data>
+      <data key="v_label">Baião</data>
+      <data key="v_X">-49.69898</data>
+      <data key="v_Y">-3.12956</data>
+      <data key="v_size">2.4406779661017</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n64">
+      <data key="v_geocode">1501303</data>
+      <data key="v_label">Barcarena</data>
+      <data key="v_X">-48.63426</data>
+      <data key="v_Y">-1.49864</data>
+      <data key="v_size">3.54237288135593</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n65">
+      <data key="v_geocode">1501402</data>
+      <data key="v_label">Belém</data>
+      <data key="v_X">-48.45991</data>
+      <data key="v_Y">-1.24072</data>
+      <data key="v_size">9.93220338983051</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n66">
+      <data key="v_geocode">1501808</data>
+      <data key="v_label">Breves</data>
+      <data key="v_X">-50.62816</data>
+      <data key="v_Y">-1.12108</data>
+      <data key="v_size">7.06779661016949</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n67">
+      <data key="v_geocode">1502004</data>
+      <data key="v_label">Cachoeira do Arari</data>
+      <data key="v_X">-48.87724</data>
+      <data key="v_Y">-0.86942</data>
+      <data key="v_size">2.22033898305085</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n68">
+      <data key="v_geocode">1502103</data>
+      <data key="v_label">Cametá</data>
+      <data key="v_X">-49.51357</data>
+      <data key="v_Y">-2.25306</data>
+      <data key="v_size">3.10169491525424</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n69">
+      <data key="v_geocode">1502509</data>
+      <data key="v_label">Chaves</data>
+      <data key="v_X">-49.82928</data>
+      <data key="v_Y">-0.02952</data>
+      <data key="v_size">2.66101694915254</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n70">
+      <data key="v_geocode">1502806</data>
+      <data key="v_label">Curralinho</data>
+      <data key="v_X">-49.98803</data>
+      <data key="v_Y">-1.58346</data>
+      <data key="v_size">3.54237288135593</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n71">
+      <data key="v_geocode">1502855</data>
+      <data key="v_label">Curuá</data>
+      <data key="v_X">-55.11349</data>
+      <data key="v_Y">-1.84574</data>
+      <data key="v_size">2.22033898305085</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n72">
+      <data key="v_geocode">1503002</data>
+      <data key="v_label">Faro</data>
+      <data key="v_X">-57.80604</data>
+      <data key="v_Y">-1.15908</data>
+      <data key="v_size">3.54237288135593</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n73">
+      <data key="v_geocode">1503101</data>
+      <data key="v_label">Gurupá</data>
+      <data key="v_X">-51.55516</data>
+      <data key="v_Y">-1.15186</data>
+      <data key="v_size">5.52542372881356</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n74">
+      <data key="v_geocode">1503606</data>
+      <data key="v_label">Itaituba</data>
+      <data key="v_X">-56.49672</data>
+      <data key="v_Y">-5.87114</data>
+      <data key="v_size">2.22033898305085</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n75">
+      <data key="v_geocode">1503903</data>
+      <data key="v_label">Juruti</data>
+      <data key="v_X">-56.22137</data>
+      <data key="v_Y">-2.62288</data>
+      <data key="v_size">4.86440677966102</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n76">
+      <data key="v_geocode">1504000</data>
+      <data key="v_label">Limoeiro do Ajuru</data>
+      <data key="v_X">-49.46914</data>
+      <data key="v_Y">-1.86427</data>
+      <data key="v_size">2.4406779661017</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n77">
+      <data key="v_geocode">1504208</data>
+      <data key="v_label">Marabá</data>
+      <data key="v_X">-50.01696</data>
+      <data key="v_Y">-5.6298</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n78">
+      <data key="v_geocode">1504505</data>
+      <data key="v_label">Melgaço</data>
+      <data key="v_X">-51.10386</data>
+      <data key="v_Y">-1.60763</data>
+      <data key="v_size">2.88135593220339</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n79">
+      <data key="v_geocode">1504604</data>
+      <data key="v_label">Mocajuba</data>
+      <data key="v_X">-49.46629</data>
+      <data key="v_Y">-2.57665</data>
+      <data key="v_size">2.66101694915254</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n80">
+      <data key="v_geocode">1504802</data>
+      <data key="v_label">Monte Alegre</data>
+      <data key="v_X">-54.35305</data>
+      <data key="v_Y">-1.0744</data>
+      <data key="v_size">5.08474576271187</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n81">
+      <data key="v_geocode">1504901</data>
+      <data key="v_label">Muaná</data>
+      <data key="v_X">-49.30925</data>
+      <data key="v_Y">-1.35568</data>
+      <data key="v_size">2.4406779661017</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n82">
+      <data key="v_geocode">1505106</data>
+      <data key="v_label">Óbidos</data>
+      <data key="v_X">-55.67504</data>
+      <data key="v_Y">-0.16992</data>
+      <data key="v_size">5.08474576271187</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n83">
+      <data key="v_geocode">1505205</data>
+      <data key="v_label">Oeiras do Pará</data>
+      <data key="v_X">-49.90233</data>
+      <data key="v_Y">-2.27892</data>
+      <data key="v_size">2.88135593220339</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n84">
+      <data key="v_geocode">1505304</data>
+      <data key="v_label">Oriximiná</data>
+      <data key="v_X">-57.14992</data>
+      <data key="v_Y">0.25509</data>
+      <data key="v_size">3.32203389830508</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n85">
+      <data key="v_geocode">1505700</data>
+      <data key="v_label">Ponta de Pedras</data>
+      <data key="v_X">-49.07728</data>
+      <data key="v_Y">-1.11751</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n86">
+      <data key="v_geocode">1505809</data>
+      <data key="v_label">Portel</data>
+      <data key="v_X">-50.95562</data>
+      <data key="v_Y">-2.56543</data>
+      <data key="v_size">3.10169491525424</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n87">
+      <data key="v_geocode">1505908</data>
+      <data key="v_label">Porto de Moz</data>
+      <data key="v_X">-52.54775</data>
+      <data key="v_Y">-2.18459</data>
+      <data key="v_size">3.98305084745763</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n88">
+      <data key="v_geocode">1506005</data>
+      <data key="v_label">Prainha</data>
+      <data key="v_X">-53.66017</data>
+      <data key="v_Y">-2.12025</data>
+      <data key="v_size">5.52542372881356</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n89">
+      <data key="v_geocode">1506302</data>
+      <data key="v_label">Salvaterra</data>
+      <data key="v_X">-48.60922</data>
+      <data key="v_Y">-0.80138</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n90">
+      <data key="v_geocode">1506401</data>
+      <data key="v_label">Santa Cruz do Arari</data>
+      <data key="v_X">-49.31386</data>
+      <data key="v_Y">-0.58335</data>
+      <data key="v_size">2.22033898305085</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n91">
+      <data key="v_geocode">1506807</data>
+      <data key="v_label">Santarém</data>
+      <data key="v_X">-55.23846</data>
+      <data key="v_Y">-2.67934</data>
+      <data key="v_size">6.84745762711864</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n92">
+      <data key="v_geocode">1507706</data>
+      <data key="v_label">São Sebastião da Boa Vista</data>
+      <data key="v_X">-49.68028</data>
+      <data key="v_Y">-1.43412</data>
+      <data key="v_size">2.88135593220339</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n93">
+      <data key="v_geocode">1507805</data>
+      <data key="v_label">Senador José Porfírio</data>
+      <data key="v_X">-51.77385</data>
+      <data key="v_Y">-4.16971</data>
+      <data key="v_size">3.98305084745763</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n94">
+      <data key="v_geocode">1507904</data>
+      <data key="v_label">Soure</data>
+      <data key="v_X">-48.63714</data>
+      <data key="v_Y">-0.49279</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n95">
+      <data key="v_geocode">1507979</data>
+      <data key="v_label">Terra Santa</data>
+      <data key="v_X">-56.45837</data>
+      <data key="v_Y">-1.95156</data>
+      <data key="v_size">3.98305084745763</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n96">
+      <data key="v_geocode">1508084</data>
+      <data key="v_label">Tucumã</data>
+      <data key="v_X">-51.39139</data>
+      <data key="v_Y">-6.8202</data>
+      <data key="v_size">2.22033898305085</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n97">
+      <data key="v_geocode">1508100</data>
+      <data key="v_label">Tucuruí</data>
+      <data key="v_X">-49.82102</data>
+      <data key="v_Y">-3.85602</data>
+      <data key="v_size">2.4406779661017</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n98">
+      <data key="v_geocode">1508308</data>
+      <data key="v_label">Viseu</data>
+      <data key="v_X">-46.45506</data>
+      <data key="v_Y">-1.53101</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n99">
+      <data key="v_geocode">1508357</data>
+      <data key="v_label">Vitória do Xingu</data>
+      <data key="v_X">-51.97397</data>
+      <data key="v_Y">-3.13527</data>
+      <data key="v_size">3.98305084745763</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n100">
+      <data key="v_geocode">1600279</data>
+      <data key="v_label">Laranjal do Jari</data>
+      <data key="v_X">-53.31055</data>
+      <data key="v_Y">1.10136</data>
+      <data key="v_size">3.98305084745763</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n101">
+      <data key="v_geocode">1600303</data>
+      <data key="v_label">Macapá</data>
+      <data key="v_X">-50.7016</data>
+      <data key="v_Y">0.55464</data>
+      <data key="v_size">3.54237288135593</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n102">
+      <data key="v_geocode">1600600</data>
+      <data key="v_label">Santana</data>
+      <data key="v_X">-51.37826</data>
+      <data key="v_Y">0.12973</data>
+      <data key="v_size">4.86440677966102</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n103">
+      <data key="v_geocode">1600808</data>
+      <data key="v_label">Vitória do Jari</data>
+      <data key="v_X">-52.06118</data>
+      <data key="v_Y">-0.99644</data>
+      <data key="v_size">4.20338983050847</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n104">
+      <data key="v_geocode">1710706</data>
+      <data key="v_label">Itaguatins</data>
+      <data key="v_X">-47.5966</data>
+      <data key="v_Y">-5.80376</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n105">
+      <data key="v_geocode">2100204</data>
+      <data key="v_label">Alcântara</data>
+      <data key="v_X">-44.52819</data>
+      <data key="v_Y">-2.39085</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n106">
+      <data key="v_geocode">2102903</data>
+      <data key="v_label">Carutapera</data>
+      <data key="v_X">-46.02636</data>
+      <data key="v_Y">-1.34781</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n107">
+      <data key="v_geocode">2105005</data>
+      <data key="v_label">Humberto de Campos</data>
+      <data key="v_X">-43.58132</data>
+      <data key="v_Y">-2.61339</data>
+      <data key="v_size">2.22033898305085</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n108">
+      <data key="v_geocode">2105104</data>
+      <data key="v_label">Icatu</data>
+      <data key="v_X">-43.8705</data>
+      <data key="v_Y">-2.62118</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n109">
+      <data key="v_geocode">2105302</data>
+      <data key="v_label">Imperatriz</data>
+      <data key="v_X">-47.57524</data>
+      <data key="v_Y">-5.33977</data>
+      <data key="v_size">2.22033898305085</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n110">
+      <data key="v_geocode">2109403</data>
+      <data key="v_label">Primeira Cruz</data>
+      <data key="v_X">-43.36522</data>
+      <data key="v_Y">-2.7013</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n111">
+      <data key="v_geocode">2111201</data>
+      <data key="v_label">São José de Ribamar</data>
+      <data key="v_X">-44.09027</data>
+      <data key="v_Y">-2.58045</data>
+      <data key="v_size">2.22033898305085</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n112">
+      <data key="v_geocode">2111300</data>
+      <data key="v_label">São Luís</data>
+      <data key="v_X">-44.30713</data>
+      <data key="v_Y">-2.63148</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n113">
+      <data key="v_geocode">2401107</data>
+      <data key="v_label">Areia Branca</data>
+      <data key="v_X">-37.03843</data>
+      <data key="v_Y">-5.00157</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n114">
+      <data key="v_geocode">2404408</data>
+      <data key="v_label">Grossos</data>
+      <data key="v_X">-37.20953</data>
+      <data key="v_Y">-4.94754</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n115">
+      <data key="v_geocode">2706703</data>
+      <data key="v_label">Penedo</data>
+      <data key="v_X">-36.48264</data>
+      <data key="v_Y">-10.23159</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n116">
+      <data key="v_geocode">2706802</data>
+      <data key="v_label">Piaçabuçu</data>
+      <data key="v_X">-36.40182</data>
+      <data key="v_Y">-10.38675</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n117">
+      <data key="v_geocode">2707503</data>
+      <data key="v_label">Porto Real do Colégio</data>
+      <data key="v_X">-36.73798</data>
+      <data key="v_Y">-10.12208</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n118">
+      <data key="v_geocode">2709202</data>
+      <data key="v_label">Traipu</data>
+      <data key="v_X">-36.96926</data>
+      <data key="v_Y">-9.89728</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n119">
+      <data key="v_geocode">2800704</data>
+      <data key="v_label">Brejo Grande</data>
+      <data key="v_X">-36.4717</data>
+      <data key="v_Y">-10.47768</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n120">
+      <data key="v_geocode">2802403</data>
+      <data key="v_label">Gararu</data>
+      <data key="v_X">-37.20402</data>
+      <data key="v_Y">-10.02733</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n121">
+      <data key="v_geocode">2805703</data>
+      <data key="v_label">Propriá</data>
+      <data key="v_X">-36.80334</data>
+      <data key="v_Y">-10.24533</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n122">
+      <data key="v_geocode">2806404</data>
+      <data key="v_label">Santana do São Francisco</data>
+      <data key="v_X">-36.63538</data>
+      <data key="v_Y">-10.28763</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n123">
+      <data key="v_geocode">2916104</data>
+      <data key="v_label">Itaparica</data>
+      <data key="v_X">-38.65687</data>
+      <data key="v_Y">-12.89261</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n124">
+      <data key="v_geocode">2924405</data>
+      <data key="v_label">Pilão Arcado</data>
+      <data key="v_X">-43.11643</data>
+      <data key="v_Y">-10.00767</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n125">
+      <data key="v_geocode">2926004</data>
+      <data key="v_label">Remanso</data>
+      <data key="v_X">-42.25422</data>
+      <data key="v_Y">-9.59844</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n126">
+      <data key="v_geocode">2927408</data>
+      <data key="v_label">Salvador</data>
+      <data key="v_X">-38.51476</data>
+      <data key="v_Y">-12.87342</data>
+      <data key="v_size">2.22033898305085</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n127">
+      <data key="v_geocode">2930204</data>
+      <data key="v_label">Sento Sé</data>
+      <data key="v_X">-41.6405</data>
+      <data key="v_Y">-10.11597</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n128">
+      <data key="v_geocode">2933208</data>
+      <data key="v_label">Vera Cruz</data>
+      <data key="v_X">-38.69582</data>
+      <data key="v_Y">-13.00683</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n129">
+      <data key="v_geocode">2933604</data>
+      <data key="v_label">Xique-Xique</data>
+      <data key="v_X">-42.7812</data>
+      <data key="v_Y">-10.99804</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n130">
+      <data key="v_geocode">3300100</data>
+      <data key="v_label">Angra dos Reis</data>
+      <data key="v_X">-44.35299</data>
+      <data key="v_Y">-22.98678</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n131">
+      <data key="v_geocode">3302601</data>
+      <data key="v_label">Mangaratiba</data>
+      <data key="v_X">-44.04392</data>
+      <data key="v_Y">-22.95256</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n132">
+      <data key="v_geocode">4109500</data>
+      <data key="v_label">Guaraqueçaba</data>
+      <data key="v_X">-48.36716</data>
+      <data key="v_Y">-25.23447</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n133">
+      <data key="v_geocode">4118204</data>
+      <data key="v_label">Paranaguá</data>
+      <data key="v_X">-48.51761</data>
+      <data key="v_Y">-25.52657</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n134">
+      <data key="v_geocode">4207205</data>
+      <data key="v_label">Imaruí</data>
+      <data key="v_X">-48.83497</data>
+      <data key="v_Y">-28.23106</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n135">
+      <data key="v_geocode">4208401</data>
+      <data key="v_label">Itapiranga</data>
+      <data key="v_X">-53.71137</data>
+      <data key="v_Y">-27.11213</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n136">
+      <data key="v_geocode">4209409</data>
+      <data key="v_label">Laguna</data>
+      <data key="v_X">-48.82599</data>
+      <data key="v_Y">-28.486</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n137">
+      <data key="v_geocode">4314498</data>
+      <data key="v_label">Pinheirinho do Vale</data>
+      <data key="v_X">-53.63396</data>
+      <data key="v_Y">-27.22183</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n138">
+      <data key="v_geocode">4315602</data>
+      <data key="v_label">Rio Grande</data>
+      <data key="v_X">-52.40458</data>
+      <data key="v_Y">-32.22007</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <node id="n139">
+      <data key="v_geocode">4318507</data>
+      <data key="v_label">São José do Norte</data>
+      <data key="v_X">-51.66541</data>
+      <data key="v_Y">-31.76156</data>
+      <data key="v_size">2</data>
+      <data key="v_label_size">2</data>
+    </node>
+    <edge source="n0" target="n14">
+      <data key="e_weight">16</data>
+    </edge>
+    <edge source="n0" target="n22">
+      <data key="e_weight">17.5</data>
+    </edge>
+    <edge source="n0" target="n33">
+      <data key="e_weight">19</data>
+    </edge>
+    <edge source="n0" target="n34">
+      <data key="e_weight">20.5</data>
+    </edge>
+    <edge source="n0" target="n38">
+      <data key="e_weight">16</data>
+    </edge>
+    <edge source="n0" target="n40">
+      <data key="e_weight">16</data>
+    </edge>
+    <edge source="n1" target="n2">
+      <data key="e_weight">1.25</data>
+    </edge>
+    <edge source="n1" target="n3">
+      <data key="e_weight">4.75</data>
+    </edge>
+    <edge source="n1" target="n23">
+      <data key="e_weight">4</data>
+    </edge>
+    <edge source="n4" target="n19">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n4" target="n20">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n4" target="n33">
+      <data key="e_weight">7.5</data>
+    </edge>
+    <edge source="n4" target="n49">
+      <data key="e_weight">136</data>
+    </edge>
+    <edge source="n4" target="n51">
+      <data key="e_weight">24</data>
+    </edge>
+    <edge source="n5" target="n11">
+      <data key="e_weight">17.75</data>
+    </edge>
+    <edge source="n5" target="n19">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n5" target="n20">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n5" target="n21">
+      <data key="e_weight">20.375</data>
+    </edge>
+    <edge source="n5" target="n29">
+      <data key="e_weight">21.125</data>
+    </edge>
+    <edge source="n5" target="n33">
+      <data key="e_weight">23.25</data>
+    </edge>
+    <edge source="n5" target="n43">
+      <data key="e_weight">20.75</data>
+    </edge>
+    <edge source="n5" target="n45">
+      <data key="e_weight">17.75</data>
+    </edge>
+    <edge source="n5" target="n47">
+      <data key="e_weight">17.75</data>
+    </edge>
+    <edge source="n5" target="n49">
+      <data key="e_weight">11</data>
+    </edge>
+    <edge source="n5" target="n50">
+      <data key="e_weight">17.75</data>
+    </edge>
+    <edge source="n6" target="n7">
+      <data key="e_weight">56</data>
+    </edge>
+    <edge source="n6" target="n12">
+      <data key="e_weight">10</data>
+    </edge>
+    <edge source="n6" target="n31">
+      <data key="e_weight">31.5</data>
+    </edge>
+    <edge source="n6" target="n33">
+      <data key="e_weight">39</data>
+    </edge>
+    <edge source="n7" target="n12">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n7" target="n31">
+      <data key="e_weight">32.5</data>
+    </edge>
+    <edge source="n7" target="n33">
+      <data key="e_weight">28.5</data>
+    </edge>
+    <edge source="n8" target="n14">
+      <data key="e_weight">9</data>
+    </edge>
+    <edge source="n8" target="n25">
+      <data key="e_weight">7.5</data>
+    </edge>
+    <edge source="n8" target="n33">
+      <data key="e_weight">13.5</data>
+    </edge>
+    <edge source="n9" target="n33">
+      <data key="e_weight">21</data>
+    </edge>
+    <edge source="n9" target="n42">
+      <data key="e_weight">16</data>
+    </edge>
+    <edge source="n9" target="n44">
+      <data key="e_weight">16</data>
+    </edge>
+    <edge source="n10" target="n13">
+      <data key="e_weight">16</data>
+    </edge>
+    <edge source="n10" target="n25">
+      <data key="e_weight">12</data>
+    </edge>
+    <edge source="n10" target="n33">
+      <data key="e_weight">16</data>
+    </edge>
+    <edge source="n10" target="n41">
+      <data key="e_weight">59</data>
+    </edge>
+    <edge source="n11" target="n19">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n11" target="n20">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n11" target="n21">
+      <data key="e_weight">20.375</data>
+    </edge>
+    <edge source="n11" target="n29">
+      <data key="e_weight">21.125</data>
+    </edge>
+    <edge source="n11" target="n33">
+      <data key="e_weight">23.25</data>
+    </edge>
+    <edge source="n11" target="n43">
+      <data key="e_weight">17.75</data>
+    </edge>
+    <edge source="n11" target="n45">
+      <data key="e_weight">17.75</data>
+    </edge>
+    <edge source="n11" target="n47">
+      <data key="e_weight">150.75</data>
+    </edge>
+    <edge source="n11" target="n49">
+      <data key="e_weight">11</data>
+    </edge>
+    <edge source="n11" target="n50">
+      <data key="e_weight">17.75</data>
+    </edge>
+    <edge source="n12" target="n15">
+      <data key="e_weight">14</data>
+    </edge>
+    <edge source="n12" target="n31">
+      <data key="e_weight">84</data>
+    </edge>
+    <edge source="n12" target="n33">
+      <data key="e_weight">24</data>
+    </edge>
+    <edge source="n12" target="n48">
+      <data key="e_weight">10.5</data>
+    </edge>
+    <edge source="n13" target="n25">
+      <data key="e_weight">12</data>
+    </edge>
+    <edge source="n13" target="n33">
+      <data key="e_weight">17.5</data>
+    </edge>
+    <edge source="n13" target="n41">
+      <data key="e_weight">16</data>
+    </edge>
+    <edge source="n14" target="n22">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n14" target="n33">
+      <data key="e_weight">45</data>
+    </edge>
+    <edge source="n14" target="n34">
+      <data key="e_weight">38</data>
+    </edge>
+    <edge source="n14" target="n38">
+      <data key="e_weight">58.5</data>
+    </edge>
+    <edge source="n14" target="n40">
+      <data key="e_weight">41</data>
+    </edge>
+    <edge source="n15" target="n31">
+      <data key="e_weight">60.75</data>
+    </edge>
+    <edge source="n15" target="n33">
+      <data key="e_weight">9</data>
+    </edge>
+    <edge source="n16" target="n33">
+      <data key="e_weight">1.5</data>
+    </edge>
+    <edge source="n16" target="n48">
+      <data key="e_weight">1.5</data>
+    </edge>
+    <edge source="n17" target="n19">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n17" target="n20">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n17" target="n28">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n17" target="n33">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n17" target="n49">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n18" target="n33">
+      <data key="e_weight">467</data>
+    </edge>
+    <edge source="n19" target="n20">
+      <data key="e_weight">71</data>
+    </edge>
+    <edge source="n19" target="n21">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n19" target="n28">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n19" target="n29">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n19" target="n33">
+      <data key="e_weight">69</data>
+    </edge>
+    <edge source="n19" target="n43">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n19" target="n45">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n19" target="n47">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n19" target="n49">
+      <data key="e_weight">45</data>
+    </edge>
+    <edge source="n19" target="n50">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n19" target="n51">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n20" target="n21">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n20" target="n28">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n20" target="n29">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n20" target="n33">
+      <data key="e_weight">74.5</data>
+    </edge>
+    <edge source="n20" target="n43">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n20" target="n45">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n20" target="n47">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n20" target="n49">
+      <data key="e_weight">45.5</data>
+    </edge>
+    <edge source="n20" target="n50">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n20" target="n51">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n21" target="n29">
+      <data key="e_weight">49.25</data>
+    </edge>
+    <edge source="n21" target="n33">
+      <data key="e_weight">35.375</data>
+    </edge>
+    <edge source="n21" target="n43">
+      <data key="e_weight">20.375</data>
+    </edge>
+    <edge source="n21" target="n45">
+      <data key="e_weight">20.375</data>
+    </edge>
+    <edge source="n21" target="n47">
+      <data key="e_weight">20.375</data>
+    </edge>
+    <edge source="n21" target="n49">
+      <data key="e_weight">26</data>
+    </edge>
+    <edge source="n21" target="n50">
+      <data key="e_weight">20.375</data>
+    </edge>
+    <edge source="n22" target="n33">
+      <data key="e_weight">10.5</data>
+    </edge>
+    <edge source="n22" target="n34">
+      <data key="e_weight">27</data>
+    </edge>
+    <edge source="n22" target="n38">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n22" target="n40">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n24" target="n33">
+      <data key="e_weight">7.5</data>
+    </edge>
+    <edge source="n25" target="n26">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n25" target="n33">
+      <data key="e_weight">42</data>
+    </edge>
+    <edge source="n25" target="n36">
+      <data key="e_weight">20</data>
+    </edge>
+    <edge source="n25" target="n38">
+      <data key="e_weight">16</data>
+    </edge>
+    <edge source="n25" target="n41">
+      <data key="e_weight">15</data>
+    </edge>
+    <edge source="n25" target="n46">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n25" target="n52">
+      <data key="e_weight">16</data>
+    </edge>
+    <edge source="n25" target="n53">
+      <data key="e_weight">54</data>
+    </edge>
+    <edge source="n25" target="n57">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n25" target="n58">
+      <data key="e_weight">5.5</data>
+    </edge>
+    <edge source="n25" target="n65">
+      <data key="e_weight">3.5</data>
+    </edge>
+    <edge source="n25" target="n66">
+      <data key="e_weight">1.5</data>
+    </edge>
+    <edge source="n25" target="n72">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n25" target="n73">
+      <data key="e_weight">7.5</data>
+    </edge>
+    <edge source="n25" target="n75">
+      <data key="e_weight">7.5</data>
+    </edge>
+    <edge source="n25" target="n80">
+      <data key="e_weight">4.5</data>
+    </edge>
+    <edge source="n25" target="n82">
+      <data key="e_weight">4.5</data>
+    </edge>
+    <edge source="n25" target="n84">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n25" target="n88">
+      <data key="e_weight">12.5</data>
+    </edge>
+    <edge source="n25" target="n91">
+      <data key="e_weight">13.5</data>
+    </edge>
+    <edge source="n25" target="n95">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n26" target="n33">
+      <data key="e_weight">7</data>
+    </edge>
+    <edge source="n26" target="n46">
+      <data key="e_weight">49</data>
+    </edge>
+    <edge source="n26" target="n52">
+      <data key="e_weight">84</data>
+    </edge>
+    <edge source="n27" target="n33">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n27" target="n35">
+      <data key="e_weight">7</data>
+    </edge>
+    <edge source="n27" target="n49">
+      <data key="e_weight">7</data>
+    </edge>
+    <edge source="n28" target="n33">
+      <data key="e_weight">5</data>
+    </edge>
+    <edge source="n28" target="n49">
+      <data key="e_weight">9</data>
+    </edge>
+    <edge source="n29" target="n33">
+      <data key="e_weight">35.625</data>
+    </edge>
+    <edge source="n29" target="n43">
+      <data key="e_weight">21.125</data>
+    </edge>
+    <edge source="n29" target="n45">
+      <data key="e_weight">21.125</data>
+    </edge>
+    <edge source="n29" target="n47">
+      <data key="e_weight">21.125</data>
+    </edge>
+    <edge source="n29" target="n49">
+      <data key="e_weight">26</data>
+    </edge>
+    <edge source="n29" target="n50">
+      <data key="e_weight">21.125</data>
+    </edge>
+    <edge source="n30" target="n48">
+      <data key="e_weight">1.5</data>
+    </edge>
+    <edge source="n31" target="n32">
+      <data key="e_weight">12</data>
+    </edge>
+    <edge source="n31" target="n33">
+      <data key="e_weight">17.5</data>
+    </edge>
+    <edge source="n32" target="n33">
+      <data key="e_weight">112</data>
+    </edge>
+    <edge source="n33" target="n34">
+      <data key="e_weight">38</data>
+    </edge>
+    <edge source="n33" target="n35">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n33" target="n36">
+      <data key="e_weight">18</data>
+    </edge>
+    <edge source="n33" target="n37">
+      <data key="e_weight">5.5</data>
+    </edge>
+    <edge source="n33" target="n38">
+      <data key="e_weight">57</data>
+    </edge>
+    <edge source="n33" target="n39">
+      <data key="e_weight">9</data>
+    </edge>
+    <edge source="n33" target="n40">
+      <data key="e_weight">41</data>
+    </edge>
+    <edge source="n33" target="n41">
+      <data key="e_weight">42</data>
+    </edge>
+    <edge source="n33" target="n42">
+      <data key="e_weight">16</data>
+    </edge>
+    <edge source="n33" target="n43">
+      <data key="e_weight">23.25</data>
+    </edge>
+    <edge source="n33" target="n44">
+      <data key="e_weight">16</data>
+    </edge>
+    <edge source="n33" target="n45">
+      <data key="e_weight">23.25</data>
+    </edge>
+    <edge source="n33" target="n46">
+      <data key="e_weight">7</data>
+    </edge>
+    <edge source="n33" target="n47">
+      <data key="e_weight">23.25</data>
+    </edge>
+    <edge source="n33" target="n48">
+      <data key="e_weight">10.5</data>
+    </edge>
+    <edge source="n33" target="n49">
+      <data key="e_weight">51.5</data>
+    </edge>
+    <edge source="n33" target="n50">
+      <data key="e_weight">23.25</data>
+    </edge>
+    <edge source="n33" target="n51">
+      <data key="e_weight">7.5</data>
+    </edge>
+    <edge source="n33" target="n52">
+      <data key="e_weight">8.5</data>
+    </edge>
+    <edge source="n33" target="n57">
+      <data key="e_weight">4</data>
+    </edge>
+    <edge source="n33" target="n58">
+      <data key="e_weight">5.5</data>
+    </edge>
+    <edge source="n33" target="n65">
+      <data key="e_weight">3.5</data>
+    </edge>
+    <edge source="n33" target="n66">
+      <data key="e_weight">1.5</data>
+    </edge>
+    <edge source="n33" target="n72">
+      <data key="e_weight">8.5</data>
+    </edge>
+    <edge source="n33" target="n73">
+      <data key="e_weight">7.5</data>
+    </edge>
+    <edge source="n33" target="n75">
+      <data key="e_weight">29.5</data>
+    </edge>
+    <edge source="n33" target="n80">
+      <data key="e_weight">4.5</data>
+    </edge>
+    <edge source="n33" target="n82">
+      <data key="e_weight">26</data>
+    </edge>
+    <edge source="n33" target="n84">
+      <data key="e_weight">7.5</data>
+    </edge>
+    <edge source="n33" target="n88">
+      <data key="e_weight">12.5</data>
+    </edge>
+    <edge source="n33" target="n91">
+      <data key="e_weight">17</data>
+    </edge>
+    <edge source="n33" target="n95">
+      <data key="e_weight">8.5</data>
+    </edge>
+    <edge source="n34" target="n38">
+      <data key="e_weight">36.5</data>
+    </edge>
+    <edge source="n34" target="n40">
+      <data key="e_weight">38</data>
+    </edge>
+    <edge source="n35" target="n49">
+      <data key="e_weight">13</data>
+    </edge>
+    <edge source="n37" target="n41">
+      <data key="e_weight">11</data>
+    </edge>
+    <edge source="n37" target="n72">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n37" target="n91">
+      <data key="e_weight">12</data>
+    </edge>
+    <edge source="n37" target="n95">
+      <data key="e_weight">10</data>
+    </edge>
+    <edge source="n38" target="n40">
+      <data key="e_weight">39.5</data>
+    </edge>
+    <edge source="n41" target="n52">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n41" target="n57">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n41" target="n58">
+      <data key="e_weight">5.5</data>
+    </edge>
+    <edge source="n41" target="n65">
+      <data key="e_weight">3.5</data>
+    </edge>
+    <edge source="n41" target="n66">
+      <data key="e_weight">1.5</data>
+    </edge>
+    <edge source="n41" target="n72">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n41" target="n73">
+      <data key="e_weight">7.5</data>
+    </edge>
+    <edge source="n41" target="n75">
+      <data key="e_weight">30</data>
+    </edge>
+    <edge source="n41" target="n80">
+      <data key="e_weight">4.5</data>
+    </edge>
+    <edge source="n41" target="n82">
+      <data key="e_weight">21.5</data>
+    </edge>
+    <edge source="n41" target="n84">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n41" target="n88">
+      <data key="e_weight">12.5</data>
+    </edge>
+    <edge source="n41" target="n91">
+      <data key="e_weight">22.5</data>
+    </edge>
+    <edge source="n41" target="n95">
+      <data key="e_weight">4.5</data>
+    </edge>
+    <edge source="n42" target="n44">
+      <data key="e_weight">14.5</data>
+    </edge>
+    <edge source="n43" target="n45">
+      <data key="e_weight">17.75</data>
+    </edge>
+    <edge source="n43" target="n47">
+      <data key="e_weight">17.75</data>
+    </edge>
+    <edge source="n43" target="n49">
+      <data key="e_weight">11</data>
+    </edge>
+    <edge source="n43" target="n50">
+      <data key="e_weight">29.75</data>
+    </edge>
+    <edge source="n45" target="n47">
+      <data key="e_weight">33.75</data>
+    </edge>
+    <edge source="n45" target="n49">
+      <data key="e_weight">11</data>
+    </edge>
+    <edge source="n45" target="n50">
+      <data key="e_weight">17.75</data>
+    </edge>
+    <edge source="n46" target="n52">
+      <data key="e_weight">89</data>
+    </edge>
+    <edge source="n47" target="n49">
+      <data key="e_weight">11</data>
+    </edge>
+    <edge source="n47" target="n50">
+      <data key="e_weight">17.75</data>
+    </edge>
+    <edge source="n49" target="n50">
+      <data key="e_weight">11</data>
+    </edge>
+    <edge source="n49" target="n51">
+      <data key="e_weight">30</data>
+    </edge>
+    <edge source="n53" target="n72">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n53" target="n95">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n54" target="n76">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n54" target="n81">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n55" target="n65">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n56" target="n60">
+      <data key="e_weight">4.5</data>
+    </edge>
+    <edge source="n56" target="n65">
+      <data key="e_weight">1.5</data>
+    </edge>
+    <edge source="n56" target="n66">
+      <data key="e_weight">1.5</data>
+    </edge>
+    <edge source="n56" target="n69">
+      <data key="e_weight">7</data>
+    </edge>
+    <edge source="n56" target="n93">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n56" target="n99">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n56" target="n101">
+      <data key="e_weight">49.5</data>
+    </edge>
+    <edge source="n57" target="n71">
+      <data key="e_weight">24.5</data>
+    </edge>
+    <edge source="n57" target="n75">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n57" target="n82">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n57" target="n91">
+      <data key="e_weight">51</data>
+    </edge>
+    <edge source="n58" target="n65">
+      <data key="e_weight">11.5</data>
+    </edge>
+    <edge source="n58" target="n66">
+      <data key="e_weight">7</data>
+    </edge>
+    <edge source="n58" target="n73">
+      <data key="e_weight">17</data>
+    </edge>
+    <edge source="n58" target="n75">
+      <data key="e_weight">7</data>
+    </edge>
+    <edge source="n58" target="n80">
+      <data key="e_weight">43</data>
+    </edge>
+    <edge source="n58" target="n82">
+      <data key="e_weight">7</data>
+    </edge>
+    <edge source="n58" target="n87">
+      <data key="e_weight">27.5</data>
+    </edge>
+    <edge source="n58" target="n88">
+      <data key="e_weight">56</data>
+    </edge>
+    <edge source="n58" target="n91">
+      <data key="e_weight">42</data>
+    </edge>
+    <edge source="n58" target="n93">
+      <data key="e_weight">4</data>
+    </edge>
+    <edge source="n58" target="n99">
+      <data key="e_weight">4</data>
+    </edge>
+    <edge source="n58" target="n100">
+      <data key="e_weight">5.5</data>
+    </edge>
+    <edge source="n58" target="n102">
+      <data key="e_weight">21</data>
+    </edge>
+    <edge source="n58" target="n103">
+      <data key="e_weight">5.5</data>
+    </edge>
+    <edge source="n59" target="n102">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n60" target="n65">
+      <data key="e_weight">1.5</data>
+    </edge>
+    <edge source="n60" target="n66">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n60" target="n101">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n61" target="n74">
+      <data key="e_weight">74</data>
+    </edge>
+    <edge source="n61" target="n91">
+      <data key="e_weight">80</data>
+    </edge>
+    <edge source="n62" target="n64">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n62" target="n65">
+      <data key="e_weight">14.5</data>
+    </edge>
+    <edge source="n62" target="n66">
+      <data key="e_weight">10</data>
+    </edge>
+    <edge source="n62" target="n70">
+      <data key="e_weight">11</data>
+    </edge>
+    <edge source="n62" target="n92">
+      <data key="e_weight">1.5</data>
+    </edge>
+    <edge source="n63" target="n68">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n63" target="n79">
+      <data key="e_weight">1.5</data>
+    </edge>
+    <edge source="n63" target="n97">
+      <data key="e_weight">1.75</data>
+    </edge>
+    <edge source="n64" target="n65">
+      <data key="e_weight">426</data>
+    </edge>
+    <edge source="n64" target="n66">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n64" target="n81">
+      <data key="e_weight">16</data>
+    </edge>
+    <edge source="n64" target="n83">
+      <data key="e_weight">7</data>
+    </edge>
+    <edge source="n64" target="n86">
+      <data key="e_weight">4</data>
+    </edge>
+    <edge source="n64" target="n100">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n64" target="n103">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n65" target="n66">
+      <data key="e_weight">74.5</data>
+    </edge>
+    <edge source="n65" target="n67">
+      <data key="e_weight">32</data>
+    </edge>
+    <edge source="n65" target="n68">
+      <data key="e_weight">7.5</data>
+    </edge>
+    <edge source="n65" target="n70">
+      <data key="e_weight">52.5</data>
+    </edge>
+    <edge source="n65" target="n73">
+      <data key="e_weight">18</data>
+    </edge>
+    <edge source="n65" target="n75">
+      <data key="e_weight">5</data>
+    </edge>
+    <edge source="n65" target="n76">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n65" target="n78">
+      <data key="e_weight">23</data>
+    </edge>
+    <edge source="n65" target="n79">
+      <data key="e_weight">1.5</data>
+    </edge>
+    <edge source="n65" target="n80">
+      <data key="e_weight">10</data>
+    </edge>
+    <edge source="n65" target="n81">
+      <data key="e_weight">31</data>
+    </edge>
+    <edge source="n65" target="n82">
+      <data key="e_weight">5</data>
+    </edge>
+    <edge source="n65" target="n83">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n65" target="n85">
+      <data key="e_weight">35.5</data>
+    </edge>
+    <edge source="n65" target="n86">
+      <data key="e_weight">33</data>
+    </edge>
+    <edge source="n65" target="n87">
+      <data key="e_weight">4.5</data>
+    </edge>
+    <edge source="n65" target="n88">
+      <data key="e_weight">17</data>
+    </edge>
+    <edge source="n65" target="n89">
+      <data key="e_weight">65</data>
+    </edge>
+    <edge source="n65" target="n90">
+      <data key="e_weight">19</data>
+    </edge>
+    <edge source="n65" target="n91">
+      <data key="e_weight">12</data>
+    </edge>
+    <edge source="n65" target="n92">
+      <data key="e_weight">51</data>
+    </edge>
+    <edge source="n65" target="n93">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n65" target="n94">
+      <data key="e_weight">14</data>
+    </edge>
+    <edge source="n65" target="n99">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n65" target="n100">
+      <data key="e_weight">5.5</data>
+    </edge>
+    <edge source="n65" target="n101">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n65" target="n102">
+      <data key="e_weight">24</data>
+    </edge>
+    <edge source="n65" target="n103">
+      <data key="e_weight">5.5</data>
+    </edge>
+    <edge source="n66" target="n70">
+      <data key="e_weight">29</data>
+    </edge>
+    <edge source="n66" target="n73">
+      <data key="e_weight">18</data>
+    </edge>
+    <edge source="n66" target="n75">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n66" target="n78">
+      <data key="e_weight">101</data>
+    </edge>
+    <edge source="n66" target="n80">
+      <data key="e_weight">7</data>
+    </edge>
+    <edge source="n66" target="n82">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n66" target="n86">
+      <data key="e_weight">124</data>
+    </edge>
+    <edge source="n66" target="n87">
+      <data key="e_weight">1</data>
+    </edge>
+    <edge source="n66" target="n88">
+      <data key="e_weight">14</data>
+    </edge>
+    <edge source="n66" target="n91">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n66" target="n92">
+      <data key="e_weight">13</data>
+    </edge>
+    <edge source="n66" target="n100">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n66" target="n101">
+      <data key="e_weight">11.5</data>
+    </edge>
+    <edge source="n66" target="n102">
+      <data key="e_weight">14.5</data>
+    </edge>
+    <edge source="n66" target="n103">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n67" target="n90">
+      <data key="e_weight">37</data>
+    </edge>
+    <edge source="n68" target="n76">
+      <data key="e_weight">24</data>
+    </edge>
+    <edge source="n68" target="n79">
+      <data key="e_weight">49.5</data>
+    </edge>
+    <edge source="n68" target="n83">
+      <data key="e_weight">36</data>
+    </edge>
+    <edge source="n68" target="n97">
+      <data key="e_weight">7.75</data>
+    </edge>
+    <edge source="n69" target="n93">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n69" target="n99">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n69" target="n101">
+      <data key="e_weight">18</data>
+    </edge>
+    <edge source="n70" target="n78">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n70" target="n83">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n70" target="n86">
+      <data key="e_weight">16</data>
+    </edge>
+    <edge source="n70" target="n92">
+      <data key="e_weight">7</data>
+    </edge>
+    <edge source="n70" target="n102">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n71" target="n91">
+      <data key="e_weight">22</data>
+    </edge>
+    <edge source="n72" target="n82">
+      <data key="e_weight">10.5</data>
+    </edge>
+    <edge source="n72" target="n91">
+      <data key="e_weight">18.25</data>
+    </edge>
+    <edge source="n72" target="n95">
+      <data key="e_weight">22</data>
+    </edge>
+    <edge source="n73" target="n75">
+      <data key="e_weight">9</data>
+    </edge>
+    <edge source="n73" target="n80">
+      <data key="e_weight">17</data>
+    </edge>
+    <edge source="n73" target="n82">
+      <data key="e_weight">9</data>
+    </edge>
+    <edge source="n73" target="n87">
+      <data key="e_weight">25</data>
+    </edge>
+    <edge source="n73" target="n88">
+      <data key="e_weight">24</data>
+    </edge>
+    <edge source="n73" target="n91">
+      <data key="e_weight">15</data>
+    </edge>
+    <edge source="n73" target="n93">
+      <data key="e_weight">5</data>
+    </edge>
+    <edge source="n73" target="n99">
+      <data key="e_weight">5</data>
+    </edge>
+    <edge source="n73" target="n100">
+      <data key="e_weight">4.5</data>
+    </edge>
+    <edge source="n73" target="n102">
+      <data key="e_weight">8.5</data>
+    </edge>
+    <edge source="n73" target="n103">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n74" target="n91">
+      <data key="e_weight">56</data>
+    </edge>
+    <edge source="n75" target="n80">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n75" target="n82">
+      <data key="e_weight">88.5</data>
+    </edge>
+    <edge source="n75" target="n84">
+      <data key="e_weight">46</data>
+    </edge>
+    <edge source="n75" target="n88">
+      <data key="e_weight">14</data>
+    </edge>
+    <edge source="n75" target="n91">
+      <data key="e_weight">77.5</data>
+    </edge>
+    <edge source="n75" target="n95">
+      <data key="e_weight">18</data>
+    </edge>
+    <edge source="n77" target="n109">
+      <data key="e_weight">1.5</data>
+    </edge>
+    <edge source="n78" target="n86">
+      <data key="e_weight">102</data>
+    </edge>
+    <edge source="n78" target="n101">
+      <data key="e_weight">9</data>
+    </edge>
+    <edge source="n79" target="n97">
+      <data key="e_weight">3.25</data>
+    </edge>
+    <edge source="n80" target="n82">
+      <data key="e_weight">8</data>
+    </edge>
+    <edge source="n80" target="n87">
+      <data key="e_weight">6.5</data>
+    </edge>
+    <edge source="n80" target="n88">
+      <data key="e_weight">57</data>
+    </edge>
+    <edge source="n80" target="n91">
+      <data key="e_weight">88</data>
+    </edge>
+    <edge source="n80" target="n100">
+      <data key="e_weight">5.5</data>
+    </edge>
+    <edge source="n80" target="n102">
+      <data key="e_weight">24</data>
+    </edge>
+    <edge source="n80" target="n103">
+      <data key="e_weight">5.5</data>
+    </edge>
+    <edge source="n82" target="n84">
+      <data key="e_weight">56</data>
+    </edge>
+    <edge source="n82" target="n88">
+      <data key="e_weight">14</data>
+    </edge>
+    <edge source="n82" target="n91">
+      <data key="e_weight">161</data>
+    </edge>
+    <edge source="n82" target="n95">
+      <data key="e_weight">14.5</data>
+    </edge>
+    <edge source="n83" target="n92">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n84" target="n91">
+      <data key="e_weight">46</data>
+    </edge>
+    <edge source="n84" target="n95">
+      <data key="e_weight">12</data>
+    </edge>
+    <edge source="n86" target="n101">
+      <data key="e_weight">12.5</data>
+    </edge>
+    <edge source="n87" target="n88">
+      <data key="e_weight">9</data>
+    </edge>
+    <edge source="n87" target="n91">
+      <data key="e_weight">6.5</data>
+    </edge>
+    <edge source="n87" target="n93">
+      <data key="e_weight">25</data>
+    </edge>
+    <edge source="n87" target="n99">
+      <data key="e_weight">24</data>
+    </edge>
+    <edge source="n87" target="n102">
+      <data key="e_weight">16.5</data>
+    </edge>
+    <edge source="n88" target="n91">
+      <data key="e_weight">73.5</data>
+    </edge>
+    <edge source="n88" target="n93">
+      <data key="e_weight">2.5</data>
+    </edge>
+    <edge source="n88" target="n99">
+      <data key="e_weight">2.5</data>
+    </edge>
+    <edge source="n88" target="n100">
+      <data key="e_weight">5.5</data>
+    </edge>
+    <edge source="n88" target="n102">
+      <data key="e_weight">27.5</data>
+    </edge>
+    <edge source="n88" target="n103">
+      <data key="e_weight">5.5</data>
+    </edge>
+    <edge source="n91" target="n95">
+      <data key="e_weight">20</data>
+    </edge>
+    <edge source="n91" target="n100">
+      <data key="e_weight">5.5</data>
+    </edge>
+    <edge source="n91" target="n102">
+      <data key="e_weight">24</data>
+    </edge>
+    <edge source="n91" target="n103">
+      <data key="e_weight">5.5</data>
+    </edge>
+    <edge source="n93" target="n96">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n93" target="n99">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n93" target="n102">
+      <data key="e_weight">5.5</data>
+    </edge>
+    <edge source="n96" target="n99">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n98" target="n106">
+      <data key="e_weight">11</data>
+    </edge>
+    <edge source="n99" target="n102">
+      <data key="e_weight">3.5</data>
+    </edge>
+    <edge source="n100" target="n102">
+      <data key="e_weight">6</data>
+    </edge>
+    <edge source="n100" target="n103">
+      <data key="e_weight">68</data>
+    </edge>
+    <edge source="n101" target="n103">
+      <data key="e_weight">1.5</data>
+    </edge>
+    <edge source="n102" target="n103">
+      <data key="e_weight">4.5</data>
+    </edge>
+    <edge source="n104" target="n109">
+      <data key="e_weight">10.5</data>
+    </edge>
+    <edge source="n105" target="n112">
+      <data key="e_weight">24.5</data>
+    </edge>
+    <edge source="n107" target="n110">
+      <data key="e_weight">34.5</data>
+    </edge>
+    <edge source="n107" target="n111">
+      <data key="e_weight">9</data>
+    </edge>
+    <edge source="n108" target="n111">
+      <data key="e_weight">9</data>
+    </edge>
+    <edge source="n113" target="n114">
+      <data key="e_weight">66</data>
+    </edge>
+    <edge source="n115" target="n122">
+      <data key="e_weight">120</data>
+    </edge>
+    <edge source="n116" target="n119">
+      <data key="e_weight">93</data>
+    </edge>
+    <edge source="n117" target="n121">
+      <data key="e_weight">186</data>
+    </edge>
+    <edge source="n118" target="n120">
+      <data key="e_weight">2</data>
+    </edge>
+    <edge source="n123" target="n126">
+      <data key="e_weight">228</data>
+    </edge>
+    <edge source="n124" target="n129">
+      <data key="e_weight">3</data>
+    </edge>
+    <edge source="n125" target="n127">
+      <data key="e_weight">18</data>
+    </edge>
+    <edge source="n126" target="n128">
+      <data key="e_weight">539</data>
+    </edge>
+    <edge source="n130" target="n131">
+      <data key="e_weight">42</data>
+    </edge>
+    <edge source="n132" target="n133">
+      <data key="e_weight">42</data>
+    </edge>
+    <edge source="n134" target="n136">
+      <data key="e_weight">50</data>
+    </edge>
+    <edge source="n135" target="n137">
+      <data key="e_weight">21</data>
+    </edge>
+    <edge source="n138" target="n139">
+      <data key="e_weight">472</data>
+    </edge>
+  </graph>
+</graphml>
