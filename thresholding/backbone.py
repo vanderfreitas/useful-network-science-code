@@ -24,12 +24,13 @@ def backbone(g,alpha):
     adj = g.get_adjacency()
     n_nodes = g.vcount()
     s = g.strength(weights=g.es['weight']) # calcula o strength de toda a rede
+    k = g.degree()
     for i in range(n_nodes):
         for j in range(n_nodes):
             if (adj[i,j] == 1): # verificando se há conexão entre o par i,j
                 w = g.es[g.get_eid(i,j)]['weight']
-                k = g.vs[i].degree()
-                pij = (1 - (w/s[i]))**(k-1)
+                #k = g.vs[i].degree()
+                pij = (1 - (w/s[i]))**(k[i]-1)
                 if (pij < alpha): # aplicando a relação com o alpha
                     p[i,j] = pij
 
